@@ -78,6 +78,7 @@ body {
     padding: 25px;
     position: fixed;
     right: 25px;
+    z-index: 4;
 }
 
 .fab-danger {
