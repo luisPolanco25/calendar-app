@@ -113,7 +113,6 @@ export const CalendarModal = () => {
     return (
         <Modal
         isOpen={modalOpen}
-        // onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
         style={customStyles}
         closeTimeoutMS={200}
